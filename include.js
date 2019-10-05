@@ -487,7 +487,7 @@ let cards = [
 	}
 	{	artName: "ZtM",
 		pageLink: "./Art/thoyvo/index.html",
-		imageLink: "./Art/thoyo/ZtM.gif",
+		imageLink: "./Art/thoyo/ztm.gif",
 		author: "Thoyvo",
 		githubLink: "https://github.com/thoyvo"
 	}
